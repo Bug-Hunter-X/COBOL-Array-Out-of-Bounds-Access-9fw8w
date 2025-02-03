@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: accessing array elements outside their defined bounds. The `bug.cob` file contains code with this error. The `bugSolution.cob` file shows the corrected code.  The error is subtle and can be difficult to find, especially in larger programs.
